@@ -1,0 +1,2 @@
+templateScript: /tsquare-flow/templates/components/dummy-component.ftl
+renderType: freemarker
